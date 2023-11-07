@@ -1,16 +1,17 @@
-### Hi there 👋
+### Projects
+#### 뉴스레터 큐레이션 서비스 [Newdok](https://github.com/kjyong702/newdok-backend) - Backend Developer <sub>(2023.05 ~ )</sub>
+#### 향수의 시작을 편하게, 향과 더욱 친해질 수 있는 공간 [PerNote](https://github.com/kjyong702/pernote-dev) - Backend Developer <sub>(2022.10 ~ 2023.04)</sub>
 
-<!--
-**kjyong702/kjyong702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Experience
+#### 비사이드 305 포텐데이 해커톤 <sub>(2023.05.19 ~ 2023.05.28)</sub> - [1pick 선정🏆](https://bside.best/projects/detail/P230517150803)
+#### 비사이드 303 포텐데이 해커톤 <sub>(2023.03.24 ~ 2023.04.01)</sub>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-00AAE70?style=flat-square&logo=Express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
+</p>
